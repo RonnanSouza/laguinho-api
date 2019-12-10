@@ -1,0 +1,6 @@
+repositories:
+- slug: RonnanSouza/laguinho-api
+  token: '{KEBECHET_TOKEN}'
+  service_type: github
+  managers:
+  - name: info
